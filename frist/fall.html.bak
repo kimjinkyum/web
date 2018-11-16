@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+   <h2> 1. Gimje Horizon Festival </h2>
+   <p>
+   <img src="fall1.jpg" width="400" height="250">
+    <ul>
+	 <li> When: 2017.09.20 ~ 2017.09.24</li>
+	 <li> Where: Buryang, Gimje-si,Jeollabuk-do</li>
+	 <li> What: a puppet show, tug-of-war, farming too experience,etc. </li>
+	 <li> Phone: 063-540-3031 </li>
+	 <li> homepage:<a href="http://festival.gimje.go.kr" target="_blank">
+	       Gimje Horizon Festival</a></li>
+	</ul>
+   </p>
+   
+   <h2> 2. Suwon Hwaseong Cultural Festival</h2>
+  <p>
+   <img src="fall2.jpg" width="400" height="250">
+    <ul>
+	 <li> When: 2017.09.22 ~ 2017.09.24 </li>
+	 <li> Where: Namchang, Suwon-si, Gyeonggi-do </li>
+	 <li> What:  the ceremonial walk of king Jeongjo,making hanok,civil,reenacting service exam, etc. </li>
+	 <li> phone: 031-290-3633 </li>
+	 <li> homepage:<a href="http://www.swcf.or.kr/?p=86" target="_blank"> Nonsan Strawberry Festival </a></li>
+	</ul>
+   </p>
+ </body>
+</html>

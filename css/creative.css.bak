@@ -263,7 +263,7 @@ header.masthead p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
   font-size: 14px;
   font-weight: 600;
-  /*text-transform: uppercase;*/
+  text-transform: uppercase;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
@@ -293,7 +293,7 @@ header.masthead p {
 
 .btn {
   font-weight: 700;
-  /*text-transform: uppercase;*/
+  text-transform: uppercase;
   border: none;
   border-radius: 300px;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
