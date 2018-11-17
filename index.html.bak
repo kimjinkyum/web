@@ -96,7 +96,7 @@
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <a class href="third/third.html"><img class="img" src="img/checklist.png" alt="">
+              <a class href="third/third.html"><img class="img" src="img/checklist.png" alt=""></a>
               <h3 class="mb-3">Third Project</h3>
               <p class="text-muted mb-0">:implementing sheduler for tralver</p>
             </div>
